@@ -1,1 +1,3 @@
-config.server.customer-key = It is MyCustomerController
+config:
+    server:
+       customer-key = It is MyCustomerController

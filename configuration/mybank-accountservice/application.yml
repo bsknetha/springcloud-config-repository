@@ -1,1 +1,3 @@
-config.server.account-key = It is MyAccountController
+config:
+    server:
+       account-key = It is MyAccountController
